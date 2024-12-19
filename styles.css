@@ -85,3 +85,7 @@ header nav ul {
 .special-feature {
   background-color: blueviolet !important;
 }
+
+.new-class {
+  background-color: aqua;
+}
